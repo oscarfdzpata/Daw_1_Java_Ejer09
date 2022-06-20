@@ -1,4 +1,4 @@
-Nombre del propietario: Oscar Fernandez - CCC: ES12345678901234567890 
+Nombre del propietario: Oscar Fernandez P - CCC: ES12345678901234567890 
 Nombre del propietario: Ruben Ruben - CCC: ES12345678901234567890 
 Nombre del propietario: Maria Jimenez - CCC: ES12345678901234567893 
-Número de cuentas existentes:3
+NÃºmero de cuentas existentes:3
